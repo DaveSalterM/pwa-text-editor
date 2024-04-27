@@ -7,7 +7,7 @@
 
   [Link to application](https://pwa-text-editor-6f81.onrender.com/)
 
-  This is a simple text editor that follows Progressive Web App (PWA) criteria. A PWA is a type of web application offers features such as offline access, push notifications, and the ability to install on users' devices.
+  This is a simple text editor that follows Progressive Web App (PWA) criteria. A PWA is a type of web application that offers features such as offline access, push notifications, and the ability to install on users' devices.
 
   ## Table of Contents
 
@@ -18,7 +18,7 @@
 
   ## Installation
 
-  Follow this [Link](https://pwa-text-editor-6f81.onrender.com/) to begin using in your web browswer. You may also install the application locally after navigating to that page by clicking the "install" button in the top left corner of the page.
+  Follow this [Link](https://pwa-text-editor-6f81.onrender.com/) to begin using in your web browswer. You may also install the application locally after navigating to that page then clicking the "install" button in the top left corner of the page.
 
   ## Usage
   
